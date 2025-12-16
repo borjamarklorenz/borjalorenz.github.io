@@ -18,10 +18,10 @@
 
 ## 🌐 **Connect with Me**
 <div align="center">
-<a href="https://www.facebook.com/wes.cas505" target="_blank">
+<a href="https://www.facebook.com/mark.lorenz.borja.2025" target="_blank">
   <img src="https://i.pinimg.com/736x/04/7d/60/047d603f517f98cd681da68bbd87ee85.jpg" height="50" style="border-radius:50%">
 </a>
-<a href="https://www.instagram.com/invites/contact/?igsh=6nzdg900cvfn&utm_content=vwc7138" target="_blank">
+<a href="https://www.instagram.com/invites/contact/?igsh=1odycgj6u9qac&utm_content=qbnx3bk" target="_blank">
   <img src="https://i.pinimg.com/736x/58/a2/be/58a2bec02ecb40d12e507e2a212c46c6.jpg" height="50" style="border-radius:50%">
 </a>
 </div>
